@@ -10,4 +10,3 @@ height="50"/><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=T-PRAT&hide=scss&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=T-PRAT&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
